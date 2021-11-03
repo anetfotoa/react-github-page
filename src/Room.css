@@ -1,0 +1,16 @@
+.Roomcheck {
+  width: 100%;
+  height: 50%;
+  border: 1px solid black;
+  background-color: rgb(244, 248, 24);
+  color: black;
+  margin-top: 10%;
+}
+.Roomcheck2 {
+  width: 60%;
+  height: 50%;
+  border: 1px solid black;
+  background-color: rgb(202, 142, 73);
+  color: black;
+  margin-left: 20%;
+}

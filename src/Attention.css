@@ -1,0 +1,16 @@
+.Check {
+  width: 100%;
+  height: 50%;
+  border: 1px solid black;
+  background-color: rgb(246, 153, 65);
+  color: white;
+  margin-top: 10%;
+}
+.Check5 {
+  width: 100%;
+  height: 50%;
+  border: 1px solid black;
+  background-color: rgb(224, 56, 56);
+  color: white;
+  margin-top: 10%;
+}

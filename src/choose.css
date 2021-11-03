@@ -1,0 +1,25 @@
+.Button6 {
+  width: 100%;
+  height: 50%;
+  background-color: rgb(104, 115, 211);
+  color: white;
+  border: 1px solid black;
+  margin-top: 10%;
+}
+.Check6 {
+  width: 40%;
+  height: 50%;
+  border: 1px solid black;
+  background-color: rgb(224, 56, 56);
+  color: white;
+  margin-left: 60%;
+}
+.Check7 {
+  width: 40%;
+  height: 50%;
+  border: 1px solid black;
+  background-color: rgb(224, 56, 56);
+  color: white;
+  margin-top: 10%;
+  margin-left: 30%;
+}

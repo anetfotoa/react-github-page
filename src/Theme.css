@@ -1,0 +1,23 @@
+.Tm {
+  width: 40%;
+  height: 50%;
+  border: 1px solid black;
+  background-color: rgb(214, 87, 108);
+  color: white;
+}
+.Tm2 {
+  width: 40%;
+  height: 50%;
+  border: 1px solid black;
+  background-color: rgb(214, 87, 108);
+  color: white;
+  margin-left: 60%;
+}
+.Tm3 {
+  width: 100%;
+  height: 50%;
+  border: 1px solid black;
+  background-color: rgb(214, 87, 108);
+  color: white;
+  margin-top: 15%;
+}
